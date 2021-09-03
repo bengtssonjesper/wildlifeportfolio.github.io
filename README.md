@@ -1,5 +1,6 @@
 # Portfolio
 
-This portfolio was made as a project in a course in Web Development and was the first website I ever created. 
+Portfolio made with HTML, CSS, Javascript and Jquery.
 <br>
-The project is made with HTML, CSS, JS and Jquery.
+Jquery is used mainly for form validation.
+None of the images in the projects are mine, all are fetched from https://unsplash.com/
