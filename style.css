@@ -245,6 +245,7 @@ a {
   border: 0;
   box-sizing: border-box;
   position: relative;
+  min-height: calc(103vh - 9em);
 }
 
 .aboutFirstImgDiv {
